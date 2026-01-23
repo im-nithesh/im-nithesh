@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="200" src="https://dev.thefatek.in/assets/images/img-1.png"  />
-</div>
-
 ###
 
 <h1 align="center">Hey There!👋 What's Up?</h1>
